@@ -126,7 +126,5 @@ $mesActual = ucfirst($fmt->format(new DateTime()));
       locale: "es"
     });
   </script>
-
 </body>
-
 </html>
